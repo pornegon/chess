@@ -12,7 +12,7 @@ namespace chess
         private string[] visuBoard = new string[8]
             {
             "♜♞♝♛♚♝♞♜",
-            "♟♟♟♟♟♟♙♟", 
+            "♟♟♟♟♟♟♟♟", 
             "        ", 
             "        ",
             "        ", 
